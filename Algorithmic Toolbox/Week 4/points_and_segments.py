@@ -1,3 +1,5 @@
+#python 3
+
 master_list = list()
 s, p = [int(i) for i in input().split()]
 
