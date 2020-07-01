@@ -1,3 +1,5 @@
+#python 3
+
 m, n = [int(i) for i in input().split()]
 
 if n<=1:
