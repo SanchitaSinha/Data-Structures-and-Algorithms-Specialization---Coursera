@@ -1,3 +1,5 @@
+#python 3
+
 seq = [int(i) for i in input().split()]
 search_seq = [int(i) for i in input().split()]
 n = seq[0]
