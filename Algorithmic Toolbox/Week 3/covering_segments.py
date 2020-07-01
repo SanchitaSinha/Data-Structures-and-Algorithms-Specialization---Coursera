@@ -1,3 +1,5 @@
+#python 3
+
 n = int(input())
 lst = []
 
