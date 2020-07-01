@@ -1,3 +1,4 @@
+#python 3
 import numpy
 
 # Discrete Knapsack problem without repetition
