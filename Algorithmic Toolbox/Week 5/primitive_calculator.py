@@ -1,3 +1,5 @@
+#python 3
+
 import math
 
 n = int(input())
