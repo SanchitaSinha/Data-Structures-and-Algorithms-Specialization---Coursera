@@ -1,3 +1,5 @@
+#python 3
+
 n, W = [int(i) for i in input().split()]
 lst = []
 
